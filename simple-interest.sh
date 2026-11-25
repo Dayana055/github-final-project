@@ -26,3 +26,4 @@ read t
 s=`expr $p \* $t \* $r / 100`
 echo "El interés simple es: "
 echo $s
+
